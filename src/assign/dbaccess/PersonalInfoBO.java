@@ -112,6 +112,7 @@ public class PersonalInfoBO
 		try
 		{
 		    personalInfoBO.getPersonalInfo("");
+		System.out.println("Git change");
 		} 
 		catch (Exception e)
 		{
